@@ -4,3 +4,5 @@ The script was tested on Amazon, so if you try running it on a different site ma
 The smtp client is configured for Gmail, so be sure to change it if you're using a different one.
 
 Don't forget entering your credentials inside the 'creds' config file.
+
+Has helped me alot during all sales and normal days as well when eyeing a particular product :D
